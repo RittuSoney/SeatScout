@@ -30,7 +30,9 @@ During university examinations, distributing seating arrangements via unstructur
 
 | Student Search Interface | Admin Control Panel |
 | :---: | :---: |
-| ![Student UI](put_link_to_student_image_here.jpg) | ![Admin UI](put_link_to_admin_image_here.jpg) |
+| ![Student UI]<img width="657" height="597" alt="Screenshot 2026-03-01 112148" src="https://github.com/user-attachments/assets/9c4814e1-dd82-433a-a7fd-7db3eaf8c37c" />
+ | ![Admin UI]<img width="755" height="599" alt="Screenshot 2026-03-01 112103" src="https://github.com/user-attachments/assets/4db87ab9-08f6-4e7b-840d-7a82290b329e" />
+ |
 
 ---
 
